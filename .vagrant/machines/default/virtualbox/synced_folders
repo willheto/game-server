@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/game-server":{"guestpath":"/var/www/game-server","hostpath":"C:/development/game/server","disabled":false,"__vagrantfile":true}}}

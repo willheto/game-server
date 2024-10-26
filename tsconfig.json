@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "out",
+    "target": "ESNext",
+    "lib": ["ESNext", "WebWorker"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "baseUrl": ".",
+    "types": ["node"],
+    "sourceMap": true,
+    "allowJs": true,
+    "checkJs": false,
+    "strict": true,
+    "alwaysStrict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowUnreachableCode": true
+  },
+  "include": ["gameServer/**/*.ts", "loginServer/**/*.ts"],
+  "exclude": ["node_modules", "<node_internals>/**"]
+}
