@@ -4,6 +4,7 @@
 
 **early development**
 </div>
+
 ## About the project
 
 > I am a beginner in game development, thus everything might not be as efficient as they could.
